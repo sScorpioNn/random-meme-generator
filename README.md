@@ -3,6 +3,8 @@ This program adds random Russian text to images.
 
 I'm not good at python, so don't judge me. I created this program that adds random text to your images.
 Here's some examples:
+
+
 ![example1](https://i.imgur.com/JxKOgLW.png)
 ![example2](https://i.imgur.com/pMwIxuy.jpg)
 
